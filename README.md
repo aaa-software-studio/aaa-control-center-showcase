@@ -15,6 +15,12 @@ Originally built for personal use, the project focuses on product editing, conte
 
 *AI-edited portfolio preview based on the application interface. Project details and timestamps have been replaced or removed for privacy. This image illustrates the interface, not verified execution of every visible feature.*
 
+## Products Preview — English
+
+![AAA Control Center products interface with fictional products, prices, stock, and permalinks](exec-17bba365-f66e-49a5-9e9d-a1850953b2e1%20%281%29.png)
+
+*AI-edited preview using fictional product names, prices, identifiers, and example.com URLs. Buttons illustrate the existing interface; this image is not evidence of successful write operations.*
+
 ## Current Scope
 
 - Switch between configured site projects.
@@ -35,7 +41,7 @@ WordPress connections use the REST API with Application Passwords. WooCommerce c
 
 The dashboard currently serves a personal, multi-project workflow. Secure multi-user operation has not been established.
 
-AI-assisted workflows are planned, starting with a provider settings interface for a user-supplied Gemini API key. This interface and its proposed content assistance features are not yet implemented or verified.
+Updated v0.12.0 screenshots show an AI settings navigation item. The settings screen, API connectivity, and AI-assisted workflows have not been independently verified.
 
 Installation, updates, credential protection, compatibility, and dependency licensing require further review before wider distribution.
 
@@ -45,8 +51,9 @@ Application source code and installable packages are not included in this showca
 
 Public demonstrations must use fictional data in an isolated environment. Simulated interactions will be explicitly labeled. Production credentials, client information, and private site content are excluded.
 
-An edited dashboard preview is included above. A public interactive demo is not currently available.
+Edited dashboard and products previews are included above. A public interactive demo is not currently available.
 
 ## About the Studio
 
 Built as part of [AAA Software Studio](https://github.com/aaa-software-studio), documenting practical work in WordPress tooling, SEO workflows, and automation.
+
