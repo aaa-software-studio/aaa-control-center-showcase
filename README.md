@@ -6,18 +6,18 @@ A standalone web dashboard developed by AAA Software Studio to manage routine Wo
 Originally built for personal use, the project focuses on product editing, content drafts, and URL slug management through a central interface.
 
 **Status:** In development · Personal, multi-project tool  
-**Version shown in preview:** v0.11.2  
+**Version shown in preview:** v0.12.0  
 **Repository purpose:** Product showcase and documentation
 
 ## Dashboard Preview — English
 
-![AAA Control Center English dashboard with FA and EN language controls and sample project data](exec-d8c2db6d-7aad-4e3a-8ae2-df9d7a8ca56f.png)
+![AAA Control Center English dashboard with FA and EN language controls and sample project data](exec-5eaffbb8-0ee8-4de9-aea7-37303f1eed05.png)
 
 *AI-edited portfolio preview based on the application interface. Project details and timestamps have been replaced or removed for privacy. This image illustrates the interface, not verified execution of every visible feature.*
 
 ## Products Preview — English
 
-![AAA Control Center products interface with fictional products, prices, stock, and permalinks](exec-17bba365-f66e-49a5-9e9d-a1850953b2e1%20%281%29.png)
+![AAA Control Center products interface with fictional products, prices, stock, and permalinks](exec-9111b301-b37a-4893-91e8-cd1591f95133.png)
 
 *AI-edited preview using fictional product names, prices, identifiers, and example.com URLs. Buttons illustrate the existing interface; this image is not evidence of successful write operations.*
 
